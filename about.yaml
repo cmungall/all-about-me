@@ -1,0 +1,3 @@
+name: all-about-me
+description: Datamodel for describing everything about a person
+source_schema_path: src/linkml/all_about_me.yaml
